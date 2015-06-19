@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76358BD7-9767-4652-B16D-143B7D020B68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCEFDF80766AA82C5FC1EF7EFC856BE1516E8621</key>
+		<string>https://github.com/krzychukula/SizeClasses.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SizeClasses.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCEFDF80766AA82C5FC1EF7EFC856BE1516E8621</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/krzychukula/SizeClasses.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCEFDF80766AA82C5FC1EF7EFC856BE1516E8621</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCEFDF80766AA82C5FC1EF7EFC856BE1516E8621</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SizeClasses</string>
+		</dict>
+	</array>
+</dict>
+</plist>
